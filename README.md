@@ -1,5 +1,5 @@
 # X-Rite Color profiles
-These icm profile are for -
+These are stock icm profiles from x-rite color assistant 
 - **Model - Lenovo legion 5 gen10**
 - **Display - 2560x1600, 15.1-inch, oled display, x-rite color asistant.**
 
