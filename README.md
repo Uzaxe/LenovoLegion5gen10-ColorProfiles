@@ -1,0 +1,1 @@
+# Lenovo-Legion-5-gen10-X-Rite-Color-profile
