@@ -1,4 +1,4 @@
-# Lenovo-Legion-5-gen10-X-Rite-Color-profile
+# X-Rite Color profile
 These icm profiles are for Lenovo legion 5 gen10 15.1-inch with oled display and x-rite color asistant.
 
 Installation-
