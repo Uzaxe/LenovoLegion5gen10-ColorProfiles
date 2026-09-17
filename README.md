@@ -4,5 +4,5 @@ These are stock icm profiles from x-rite color assistant for anyone how are unab
 - **Display - 2560x1600, 15.1-inch, oled display, x-rite color asistant.**
 
 # Installation #
-Extract and Copy all Color profiles including .txt (Optional HDR Profile.icm) and paste it in C:\\Windows\System32\spool\drivers\color folder.
+Extract and Copy all Color profiles including .txt (Optional HDR Profile.icm, keep hdr brightness to 3 in settings) and paste it in C:\\Windows\System32\spool\drivers\color folder.
 
